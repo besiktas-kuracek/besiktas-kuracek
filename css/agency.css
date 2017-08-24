@@ -9,7 +9,7 @@ body {
   background: url("../img/header-bg.jpg") no-repeat 0 0;
   background-size: 100%;}
 
-#savasNav {
+.savasNav {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
   background: url("../img/savas-bg.jpg") no-repeat 0 0;
